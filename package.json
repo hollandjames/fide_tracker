@@ -1,0 +1,15 @@
+{
+  "name": "fide_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vvamos",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^5.5.4",
+    "xml2js": "^0.4.19"
+  }
+}
